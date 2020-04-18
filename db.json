@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Test 1",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2020-04-18T07:10:58.969Z"
-    },
-    {
-      "message": "Test 2",
+      "message": "test1",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2020-04-18T07:20:17.081Z",
-      "id": 2
+      "date": "2020-04-18T07:25:45.955Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Working!!",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-04-18T07:40:57.570Z"
     }
   ],
   "techs": [

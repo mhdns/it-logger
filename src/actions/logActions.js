@@ -83,7 +83,7 @@ export const updateLog = (log) => async (dispatch) => {
       }
     });
 
-    const data = res.json();
+    const data = await res.json();
 
     clearCurrent();
     dispatch({
