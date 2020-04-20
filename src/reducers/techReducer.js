@@ -7,7 +7,7 @@ import {
 } from '../actions/types';
 
 const initialState = {
-  techs: null,
+  techs: [],
   lodaing: false,
   error: null
 };
